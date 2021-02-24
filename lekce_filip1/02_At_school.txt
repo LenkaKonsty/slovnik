@@ -1,0 +1,22 @@
+﻿kniha	book
+pero	pen
+tužka	pencil
+penál	pencil case
+guma	rubber
+pravítko	ruler
+lepidlo	glue
+nůžky	scissors
+kalkulačka	calculator
+učitel(ka)	teacher
+třída	classroom
+kamarád(ka)	friend
+přestávka	playtime
+prosím	please
+tady, zde	here
+děkuji ti/vám	thank you
+Toto je...	This is...
+moci, umět	can
+vypůjčit	borrow
+ano	yes
+Odkud jsi?	Where are you from?
+Odkud je...?	Where is...from?

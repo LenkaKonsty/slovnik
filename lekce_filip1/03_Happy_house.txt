@@ -1,0 +1,25 @@
+﻿hračka	toy
+auto	car
+vlak	train
+panenka	doll
+farma	farm
+nákladní auto	lorry
+robot	robot
+příšera	monster
+raketa	rocket
+dinosaurus	dinosaur
+osel	donkey
+kuželky	skittles
+medvídek	teddy bear
+bubínek	drum
+láhev	bottle
+krabice	box
+knoflík	button
+z	from
+ne	no
+plast(ový)	platic
+karton(ový)	carboard
+ponožky	sock
+tuba	tube
+tvůj, váš	your
+oblíbený	favourite

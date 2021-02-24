@@ -1,0 +1,58 @@
+﻿Ještě něco?	Anything else?
+Prosím. (při přinesení jídla)	Here you are.
+druh	kind
+krabička na oběd	lunchbox
+jídelní lístek	menu
+míchaný, směs	mixed
+objednat si, pořadí	order
+banán	banana
+fazole	beans
+hovězí maso	beef
+máslo	butter
+zelí, kapusta	cabbage
+mrkev	carrot
+kuře, kuřecí maso	chicken
+hranolky	chips
+káva	coffee
+smetana	cream
+brambůrky, chipsy	crisps
+moučník, zákusek	dessert
+pít, nápoj	drink
+vejce	egg
+ryba	fish
+ovoce	fruit
+hroznové víno	grapes
+šunka	ham
+horká čokoláda	hot chocolate
+zmrzlina	ice-cream
+jehněčí	lamb
+citrón	lemon
+limonáda	lemonade
+hlávkový salát	lettuce
+maso	meat
+mléko	milk
+mléčný koktejl	milkshake
+houba	mushroom
+cibule	union
+pomerančový džus	orange juice
+těstoviny	pasta
+paprika, pepř	pepper
+koláč	pie
+vepřové	pork
+brambor	potato
+rýže	rice
+salát	salad
+losos	salmon
+sůl	salt
+mandarinka(bez pecek)	satsuma
+párek, klobása, vuřt	sausage
+polévka	soup
+špagety s boloňskou omáčkou	spaghetti bolognese
+cukr	sugar
+čaj	tea
+rajče	tomato
+tuňák	tuna
+zelenina	vegetable
+voda	water
+víno	wine
+jogurt	yoghurt

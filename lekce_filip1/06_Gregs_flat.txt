@@ -1,0 +1,27 @@
+﻿postel	bed
+židle	chair
+stůl	table
+šatní skříň	wardrobe
+skříň	cupboard
+knihovna	bookcase
+křeček	hamster
+počítač	computer
+ložnice	bedroom
+koupelna	bathroom
+kuchyně	kitchen
+obývací pokoj	sittingromm
+Tam je...	Tehre is...
+kytara	guitar
+obraz	painting
+rádio	radio
+kobereček	rug
+pohovka	sofa
+krb	fireplace
+Kde...?	Where...?
+On je...	He is...
+pod	under
+v	in
+na	on
+budík	alarm clock
+lampa	lamp
+plakát	poster

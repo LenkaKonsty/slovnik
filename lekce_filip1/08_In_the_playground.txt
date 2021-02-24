@@ -1,0 +1,22 @@
+﻿boty(vysoké)	boots
+čepice s kšiltem	cap
+čepice, klobouk, přilba	hat
+světřík	jumper
+bota	shoe
+sukně	skirt
+krátký	short
+ponožka	sock
+tričko	t-shirt
+uniforma	uniform
+mikina	sweatshirt
+kalhoty	trousers
+odznak	badge
+odhadnout	guess
+mapa	map
+měřit	measure
+skluzavka	slide
+příliš	too
+Čí...?	Whose...?
+hasič	firefighter
+maškarní kostým	fancy dress
+Jak dlouhý je...?	How long is the...?

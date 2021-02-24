@@ -1,0 +1,39 @@
+﻿po	after
+shromáždění	assembly
+panelák, činžák	block of flats
+správný, opravit	correct
+(každo)denní	daily
+oblíbený	favourite
+vyrůst, dospět	grow up
+stát se	happen
+střední škola	hight school
+večer	in the evening
+odejít z domova	leave home
+život	life
+blízko	near
+v patře/poschodí	in the floor
+cvičit	practise
+docházka	registration
+správně, správný	right
+škola, kde se připravuje k maturitě	sixth form college
+jít pěšky	walk
+špatně	wrong
+ještě (ne)	yet
+první	first
+druhý	second
+třetí	third
+čtvrtý	fourth
+pátý	fifth
+šestý	sixth
+sedmý	seventh
+osmý	eighth
+devátý	ninth
+desátý	tenth
+jedenáctý	eleventh
+dvanáctý	twelfth
+třináctý	thirteenth
+čtrnáctý	fourteenth
+dvacátý	twentieth
+dvacátý první	twenty-first
+dvacátý druhý	twenty-second
+třicátý	thirtieth

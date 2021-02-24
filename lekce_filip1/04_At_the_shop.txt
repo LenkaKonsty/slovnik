@@ -1,0 +1,19 @@
+﻿jablko	apple
+banán	banana
+pomeranč	orange
+hruška	pear
+dort	cake
+zmrzlina	ice cream
+sešenky	biscuits
+brokolice	brocolli
+těstoviny	pasta
+pomeranč	orange
+hruška	pear
+čokoláda	chocolate
+vědět	know
+sedět	sit
+dolů	down
+stát	stand
+nahoru	up
+dotknout se	rouch
+(o)točit (se)	turn

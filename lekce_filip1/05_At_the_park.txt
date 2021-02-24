@@ -1,0 +1,23 @@
+﻿míč	ball
+kolo	bike
+loď	boat
+papírový drak	kite
+fotbal	football
+letadlo	plane
+závodní auto	racing car
+velký	big
+malý	small
+přejít(silnici)	cross
+Neběhej!	Don't run!
+poslouchat	listen
+Zastav se!	Stop!
+jedenáct	eleven
+dvanáct	twelve
+třináct	thirteen
+čtrnáct	fourteen
+patnáct	fifteen
+šestnáct	sixteen
+sedmnáct	seventenn
+osmnáct	eighteen
+devetenáct	nineteen
+dvacet	twenty

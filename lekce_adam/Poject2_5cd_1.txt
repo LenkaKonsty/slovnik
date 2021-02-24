@@ -1,0 +1,32 @@
+﻿gepard	cheetah
+klíč, nápověda	clue
+zlato	gold
+železo	iron
+olovo	lead
+lev	lion
+kov	metal
+pštros	ostrich
+rekord	record
+sportovec	sportsperson
+oblast	area
+tak...jako...	as...as...
+lepší	better
+Pozor na...	Beware of...
+býk	bull
+popsat	describe
+peří, pírko	feather
+fotbalový tým	football team
+plný (čeho)	full (of)
+stmívat se	get dark
+průvodce	guide
+průvodce(kniha)	guidebook
+led	ice
+blesk	lightning
+popová skupina	pop group
+běžec	runner
+značka, cedule	sign
+chrápat	snore
+přeložit	translate
+výhled	view
+horší	worse
+nejhorší	worst

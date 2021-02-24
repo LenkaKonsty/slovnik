@@ -1,0 +1,22 @@
+﻿děťátko	baby
+chlapec	boy
+dívka	girl
+muž	man
+žena	woman
+pes	dog
+město	town
+pekařstvá	baker's
+autobus.zastávka	bus stop
+kavárna	café
+poštovní schránka	post box
+nejlepší	best
+blonďatý	blond
+oči	eyes
+tlustý	fat
+vlasy	hair
+dlouhý	long
+starý	old
+vysoký	tall
+hubený	thin
+mladý	young
+brýle	glasses

@@ -1,0 +1,53 @@
+﻿hlavní město	capital
+pobřeží	coast
+hluboký	deep
+příšera	monster
+široký	wide
+les	wood
+pláž	beach
+most	bridge
+kanál	canal
+útes	cliff
+pole	field
+přístav	harbour
+kopec	hill
+jezero	lake
+ostrov	island
+dálnice	motorway
+hora	mountain
+elektrárna	power station
+řeka	river
+moře	sea
+mrakodrap	skyscraper
+tunel	tunnel
+údolí	valley
+přelidněný	crowded
+rozdíl	difference
+východ	east
+kromě, mimo	except
+rovinatý, plochý	flat
+přátelský	friendly
+kopcovitý	hilly
+nížký	low
+sever	north
+severozápad	nort-west
+pravidlo	rule
+roční období	season
+jih	south
+jihovýchod	south-east
+západ	west
+včera	yesterday
+Je oblačno.	It is cloudy.
+Je zima.	It is cold.
+Je chladno.	It is cool.
+Je sucho.	It is dry.
+Je pěkně.	It is fine.
+Je mlha.	It is foggy.
+Mrzne.	It is freezing.
+Je horko.	It is hot.
+Je mrazivo/namrzlo.	It is icy.
+Sněží.	It is snowing.
+Je slunečno.	It is sunny.
+Je teplo.	It is warm.
+Je mokro.	It is wet.
+Je větrno.	It is windy.

@@ -1,0 +1,27 @@
+﻿dálkový autobus	coach
+poslouchat	listen
+zahrát pantomimou	mime
+venku, před	outside
+holub	pigeon
+program	programme
+jít po sobě, střídat	take (it in) turns
+výlet	trip
+čekat	wait
+čekat (na)	wait (for)
+mladý	young
+kočka	cat
+tele	calf
+kráva	cow
+pes	dog
+kachna	duck
+kachně	duckling
+hříbě	foal
+koza	goat
+kůň	horse
+kůzle	kid
+kotě	kitten
+jehně	lamb
+prase	pig
+sele	piglet
+štěně	puppy
+ovce	sheep

@@ -1,0 +1,24 @@
+﻿apartmán, byt	apartment
+pryč	away
+pláž	beach
+výraz	expression
+daleko	far
+doufat	hope
+nemocný	ill
+volný(den)	off
+pršet	rain
+pán(oslovení)	sir
+sportovní instruktor	sports instructor
+zábavní park	theme park
+svatba	wedding
+víkend	weekend
+v zábavním parku	at a theme park
+na svatbě	at a wedding
+doma	at home
+ve škole	at school
+v práci	at work
+v posteli	in bed
+na zahradě	in the garden
+v parku	in the park
+na prázdninách	on holiday
+na pláži	on the beach

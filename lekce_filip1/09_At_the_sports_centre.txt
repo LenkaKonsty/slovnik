@@ -1,0 +1,26 @@
+﻿paže	arm
+tělo	body
+chodidlo	foot
+chodidla	feet
+boky	hips
+noha	leg
+hlava	head
+ruka	hand
+ohnout	bend
+potápět se	dive
+utéct	escape
+slyšet	hear
+skákat	jump
+(vy)kopnout	kick
+lyžovat	sky
+spát	sleep
+plavat	swim
+cvik, cvičení	exercise
+odvážný	bolrd
+statečný	brave
+ovoce	fruit
+zdravý	healthy
+levý	left
+pravý	right
+voda	water
+tenis	tennis

@@ -1,0 +1,56 @@
+﻿kost	bone
+dinosaurus	dinosaur
+konec, zakončení	ending
+lepidlo	glue
+hlídat, hlídač	guard
+Zasekl jsem se!	I'm stuck!
+návod, pokyn	instruction
+odpoledne	in the afternoon
+hledat	look for
+model	model
+ústa	mouth
+hýbat se	move
+další, jiný	other
+něco	something
+Promiň.	Sorry.
+Promiňte.	I'm sorry.
+Co se děje? Je něco špatně?	What's wrong?
+štěkat	bark
+popis	description
+různý, odlišný	different
+vejce	egg
+slon	elephant
+dokonce	even
+liška	fox
+zem, půda	ground
+skupina	group
+díra	hole
+ráno	in the morning
+ještěrka	lizard
+milovat, mít rád	love
+surikata	meerkat
+myš	mouse
+pár, dvojice	pair
+rostlina	plant
+jedovatý	poisonous
+docela	quite
+škorpión, štír	scorpion
+velikost	size
+jižní	southern
+pruh	stripe
+voda	water
+safari park	wildlife park
+práce, pracovat	work
+netopýr	bat
+velbloud	camel
+delfín	dolphin
+orel	eagle
+žába	frog
+žirafa	giraffe
+hroch	hippopotamus
+hmyz	insect
+klokan	kangaroo
+opice	monkey
+žralok	shark
+tygr	tiger
+zebra	zebra
