@@ -1,0 +1,31 @@
+﻿Ahoj!	Hello!
+Čau!	Hi!
+Nashle!	Bye!
+Na shledanou!	Goodbey!
+Jak se máš, máte?	How are you?
+Dobře!	Fine!
+Já jsem...	I am...
+To je...	It is...
+jméno	name
+vidět	ses
+zítra	tomorrow
+jedna	one
+dvě	two
+tři	three
+čtyři	four
+pět	five
+šest	six
+sedm	seven
+osm	eight
+devět	nine
+deset	ten
+jedenáct	eleven
+dvanáct	twelve
+červená	red
+bílá	white
+modrá	blue
+zelená	green
+černá	black
+fialová	purple
+růžová	pink
+hnědá	brown

@@ -1,0 +1,23 @@
+﻿stát se	become-became-become
+moci, umět	can-could-XXX
+růst	grow-grew-grown
+slyšet	hear-heard-heard
+znát	know-knew-known
+ztratit	lose-lost-lost
+dělat	make-made-made
+potkat	meet-met-met
+číst	read-read-read
+běžet	run-ran-run
+říkat	say-said-said
+vidět	see-saw-seen
+sedět	sit-sat-sat
+spát	sleep-slept-slept
+mluvit	speak-spoke-spoken
+plavat	swim-swam-swum
+brát	take-took-taken
+vyučovat	teach-taught-taught
+říci	tell-told-told
+myslit	think-thought-thought
+rozumět	understand-understood-understood
+nosit na sobě	wear-wore-worn
+psát	write-wrote-written

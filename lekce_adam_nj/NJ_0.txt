@@ -1,0 +1,61 @@
+﻿červený	rot
+hnědý	braun
+zelený	grün
+modrý	blau
+béžový	beige
+žlutý	gelb
+černý	schwarz
+bílý	weiß
+šedý	grau
+Ahoj!	Hallo!
+Ahoj! (při loučení)	Tschüs!
+Na shledanou!	Auf Wiedersehen!
+Dobré ráno!	Guten Morgen!
+Dobrý den!	Guten Tag!
+Dobrý večer!	Geten Abend!
+Gute Nacht!	Dobrou noc!
+Čau!	Tschau!
+Jsem tady!	Ich bin da!
+ano	ja
+ne	nein
+pondělí	der Montag
+úterý	der Dienstag
+středa	der Mittwoch
+čtvrtek	der Donnerstag
+pátek	der Freitag
+sobota	der Samstag
+neděle	der Sonntag
+Dnes je...	Dnes je...
+Co je zítra?	Was ist morgen?
+Co bylo  včera?	Was war gestern?
+jedna	eins
+dvě	zwei
+tři	drei
+čtyři	vier
+pět	fünf
+šest	sechs
+sedm	sieben
+osm	acht
+devět	neun
+deset	zehn
+jedenáct	elf
+dvanáct	zvölf
+dnes	heute
+zítra	morgen
+včera	gestern
+můj	mein
+moje	meine
+tvůj	dein
+tvoje	deine
+barvy	Farben
+který	welcher
+která	welche
+teď	jetzt
+Něměcko	Deutchland
+hlavní město	die Hauptstadt
+Rakousko	Österreich
+jezdit na lyžích	Ski fahren
+Švýcarsko	die Schweiz
+svátky	Feste
+země (j.č.)	das Land
+země (mn.č.)	Länder

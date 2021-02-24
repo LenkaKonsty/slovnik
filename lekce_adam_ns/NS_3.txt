@@ -1,0 +1,16 @@
+﻿začít	begin-began-begun
+táhnout, kreslit	draw-drew-drawn
+krmit	feed-fed-fed
+bojovat	fight-fought-fought
+mrznout	freeze-froze-frozen
+skrývat	hide-hid-hidden
+zapálit	light-lighted/lit-lighted
+jet	ride-rode-ridden
+prodávat	sell-sold-sold
+poslat	send-sent-sent
+zpívat	sing-sang-sung
+klouzat	slide-slid-slid
+spěchat, urychlit	speed-sped-sped
+hláskovat	spell-spelt-spelt
+udeřit	strike-struck-struck
+získat, vyhrát	win-won-won

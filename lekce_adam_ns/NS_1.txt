@@ -1,0 +1,22 @@
+﻿být	be-was,were-been
+stavět	build-built-built
+kupovat	buy-bought-bought
+chytit	catch-caught-caught
+vybrat si	choose-chose-chosen
+přijít	come-came-come
+dělat	do-did-done
+hnát, jet, řídit	drive-drove-driven
+pít	drink-drank-drunk
+jíst	eat-ate-eaten
+padat	fall-fell-fallen
+cítit	feel-felt-felt
+nalézt	find-found-found
+letět	fly-flew-flown
+zapomenout	forget-forgot-forgotten
+dostat, obdržet	get-got-gotten
+dát	give-gave-given
+jít, jet	go-went-gone
+mít, vlastnit	have-had-had
+zranit, bolet	hurt-hurt-hurt
+učit se	learn-learnt-learnt
+opustit	leave-left-left
